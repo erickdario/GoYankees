@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CervezaYogiBera" size="826.000000 1063.000000" />
+    <ImageTarget name="CervezaReggieJackson" size="826.000000 1063.000000" />
+    <ImageTarget name="CervezaMarianoRivera" size="826.000000 1063.000000" />
+    <ImageTarget name="CervezaLouGerihg" size="826.000000 1063.000000" />
+    <ImageTarget name="CervezaDerekJeter" size="826.000000 1063.000000" />
+    <ImageTarget name="CervezaBabeRuth" size="816.000000 1050.130737" />
+    <ImageTarget name="character" size="512.000000 512.000000" />
+  </Tracking>
+</QCARConfig>
